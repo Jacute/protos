@@ -1,4 +1,4 @@
-module github.com/Jacute/protos
+module github.com/jacute/protos
 
 go 1.22.2
 
